@@ -1,3 +1,5 @@
 title: WienerleMenu
-icon: /docs/icon.png
+description: Immer frisch.
+logo: /docs/icon.png
 theme: jekyll-theme-hacker
+show_downloads: true
