@@ -6,6 +6,8 @@
 
 3. Starte den Launcher (Es sollte sich eine Konsole öffnen)
 
+
+
 ## Changelog
 
 ### Version - 36  |  8.5.2020
