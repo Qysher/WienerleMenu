@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Download und Installation
 
-You can use the [editor on GitHub](https://github.com/Qysher/WienerleMenu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Downloade den [Launcher](https://raw.githubusercontent.com/Qysher/WienerleMenu/master/Download/WienerleMenu.exe) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
+2. Starte und installier Java
+3. Starte den Launcher (Es sollte sich eine Konsole öffnen)
 
 ### Markdown
 
