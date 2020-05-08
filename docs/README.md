@@ -7,13 +7,9 @@
 3. Starte den Launcher (Es sollte sich eine Konsole öffnen)
 
 
-
-
 # Trello
 
 Über das [Trello-Board](https://trello.com/b/eaYTosYb/gta-5-modmenu) kannst du dich immer über den aktuellen Entwicklungsfortschritt informieren.
-
-
 
 
 # Changelog
