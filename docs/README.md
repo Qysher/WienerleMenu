@@ -16,22 +16,22 @@
 
 ### Version - 36  |  8.5.2020
 
-* Vision Effects
-* Karma
-* Karma filter Friends
-* Vehicle Spawner
+* Added Vision Effects
+* Added Karma
+* Added Karma filter Friends
+* Added Vehicle Spawner
   * Custom Input
   * Spawn in Vehicle
   * Spawn Maxed
-* Auto Repair
-* Auto Repair Fix
-* Drift Mode
-* Rocket Ammo
-* Firework Ammo
-* New Teleport Location
-* Players
-  * 2 new Kicks
-* Player Info
+* Added Auto Repair
+* Added Auto Repair Fix
+* Added Drift Mode
+* Added Rocket Ammo
+* Added Firework Ammo
+* Added New Teleport Location
+* Edited Players
+  * Added 2 new Kicks
+* Added Player Info
   * IP
   * Internal IP
   * In Vehicle
@@ -45,13 +45,13 @@
   * K/D
   * Total Money
   * Wallet Money
-  *Bank Money
-* Anti AFK
-* Recovery
-  * Level Correction
-  * Stealth Money (Untested)
-  * Job Payout
-    * Explode Yourself
+  * Bank Money
+* Fixed Anti AFK
+* Edited Recovery
+  * Fixed Level Correction
+  * Added Stealth Money (Untested)
+  * Added Job Payout
+    * Added Explode Yourself
   * Fixed Bunker Money
-* Show FPS
-* Notification System
+* Fixed Show FPS
+* Added Notification System
