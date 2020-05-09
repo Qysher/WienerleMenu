@@ -7,13 +7,12 @@
 3. Starte den Launcher (Es sollte sich eine Konsole öffnen)
 
 
-# Trello
+# Trello und Updates
 
 Über das [Trello-Board](https://trello.com/b/eaYTosYb/gta-5-modmenu) kannst du dich immer über den aktuellen Entwicklungsfortschritt informieren.
 
 
 # Changelog
-[aktuelle Version](https://raw.githubusercontent.com/Qysher/WienerleMenu/master/Current)
 
 ### \[Release] Version - 36  |  8.5.2020
 
