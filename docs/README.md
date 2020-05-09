@@ -13,8 +13,9 @@
 
 
 # Changelog
+[aktuelle Version](https://raw.githubusercontent.com/Qysher/WienerleMenu/master/Current)
 
-### Version - 36  |  8.5.2020
+### \[Release] Version - 36  |  8.5.2020
 
 * Added Vision Effects
 * Added Karma
