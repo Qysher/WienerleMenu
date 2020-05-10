@@ -20,30 +20,30 @@
 * Added Karma Option: Taze Player
 * Added Karma for Friends
 * Vehicle
- * Delete Doors
- * Open Doors
+  * Delete Doors
+  * Open Doors
 * Added Shoot Stuff
- * Ammo Damage
- * Ammo Speed
- * Rocket
- * Firework
- * Atomizer
- * Grenade
- * Molotov
- * Adder
- * Dumptruck
- * Train
- * Luxor
- * Cargoplane
+  * Ammo Damage
+  * Ammo Speed
+  * Rocket
+  * Firework
+  * Atomizer
+  * Grenade
+  * Molotov
+  * Adder
+  * Dumptruck
+  * Train
+  * Luxor
+  * Cargoplane
 * Players
- * Edited Attach Objects
- * PlayerInfo
-  * Added Vehicle Name
-  * Added Zone
-  * Added GEO
+  * Edited Attach Objects
+  * PlayerInfo
+    * Added Vehicle Name
+    * Added Zone
+    * Added GEO
 * Protections
- * Anti Crash
- * Anti Attach
+  * Anti Crash
+  * Anti Attach
 * Edited Show talking Players
 
 ### \[Release] Version - 36  |  8.5.2020
