@@ -14,6 +14,38 @@
 
 # Changelog
 
+### \[Release] Version - 37 | 10.5.2020
+
+* New Keybind: F12 ➜ Vehicle Spawner
+* Added Karma Option: Taze Player
+* Added Karma for Friends
+* Vehicle
+ * Delete Doors
+ * Open Doors
+* Added Shoot Stuff
+ * Ammo Damage
+ * Ammo Speed
+ * Rocket
+ * Firework
+ * Atomizer
+ * Grenade
+ * Molotov
+ * Adder
+ * Dumptruck
+ * Train
+ * Luxor
+ * Cargoplane
+* Players
+ * Edited Attach Objects
+ * PlayerInfo
+  * Added Vehicle Name
+  * Added Zone
+  * Added GEO
+* Protections
+ * Anti Crash
+ * Anti Attach
+* Edited Show talking Players
+
 ### \[Release] Version - 36  |  8.5.2020
 
 * Added Vision Effects
