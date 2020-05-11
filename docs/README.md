@@ -14,6 +14,10 @@
 
 # Changelog
 
+### \[Patch] Version - 38 | 11.5.2020
+
+* Disabled Stealth Money
+
 ### \[Release] Version - 37 | 10.5.2020
 
 * New Keybind: F12 ➜ Vehicle Spawner
