@@ -1,6 +1,6 @@
 # Download und Installation
 
-1. Downloade den [Launcher](https://raw.githubusercontent.com/Qysher/WienerleMenu/master/Download/WienerleMenu.exe) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
+1. Downloade den [Launcher](https://raw.githubusercontent.com/Qysher/WienerleMenu/master/Download/WienerleMenu.zip) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
 
 2. Starte und installier Java
 
