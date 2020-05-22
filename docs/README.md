@@ -1,6 +1,6 @@
 # Download und Installation
 
-1. Downloade den [Launcher](https://github.com/Qysher/WienerleMenu/releases) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
+1. Downloade den [Launcher](https://github.com/Qysher/WienerleMenu/blob/master/Download/Wienerle%20Launcher%202.1.7z?raw=true) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
 
 2. Starte und installier Java
 
@@ -14,7 +14,12 @@
 
 # Changelog
 
-### \[Patch] Version - 39 | 22.5.2020
+### \[Release] Version - 40 | 22.5.2020
+
+*  Edited Recovery
+  *  Added Rig Horse Race
+
+### \[Release] Version - 39 | 22.5.2020
 
 * Edited Vehicle
   * Added LSC (Beta)
