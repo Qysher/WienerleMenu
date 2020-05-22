@@ -17,6 +17,7 @@
 ### \[Patch] Version - 39 | 22.5.2020
 
 * Edited Vehicle
+ * Added LSC (Beta)
  * Added Hanbrake Boost
 * Added Spawn Vehicle (for other Players)
 
