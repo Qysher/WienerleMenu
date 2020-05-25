@@ -14,6 +14,23 @@
 
 # Changelog
 
+### \[Beta] Version - 41 | 26.5.2020
+
+* Edited Weapons
+  * Edited Combat
+    * Added Aimbot
+    * Added Aimbot filter Friends
+* Added Visuals
+  * Added Filter Friends
+  * Added Filter Friends
+  * Moved 3D Box
+  * Moved 3D Tracers
+  * Added 2D Head Cross
+  * Added 2D Head Cross 2
+  * Added Name ESP
+* Added Config System
+  * Added Support for Custom Themes
+
 ### \[Release] Version - 40 | 22.5.2020
 
 *  Edited Recovery
