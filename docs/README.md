@@ -14,6 +14,11 @@
 
 # Changelog
 
+### \[Release] Version - 42 | 1.6.2020
+* Added Hornboost Mode "Acceleration"
+* Added more Theme Options
+* Fixed a few Beta Bugs
+
 ### \[Beta] Version - 41 | 26.5.2020
 
 * Edited Weapons
