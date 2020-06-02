@@ -14,6 +14,9 @@
 
 # Changelog
 
+### \[Release] Version - 43 | 2.6.2020
+* Added Discord RPC
+
 ### \[Release] Version - 42 | 1.6.2020
 * Added Hornboost Mode "Acceleration"
 * Added more Theme Options
