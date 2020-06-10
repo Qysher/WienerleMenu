@@ -14,6 +14,15 @@
 
 # Changelog
 
+### \[Release] Version - 44 | 10.6.2020
+* Added Vehicle Colors
+  * Added Primary Color
+  * Added Primary Rainbow
+  * Added Secondary Color
+  * Added Secondary Rainbow
+  * Added Neon Color
+  * Added Neon Rainbow
+
 ### \[Release] Version - 43 | 2.6.2020
 * Added Discord RPC
 
