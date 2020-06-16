@@ -1,10 +1,15 @@
 # Download und Installation
 
-1. Downloade den [Launcher](https://github.com/Qysher/WienerleMenu/blob/master/Download/Wienerle%20Launcher%202.1.7z?raw=true) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
+1. Downloade den [Launcher-Installer](https://github.com/Qysher/WienerleMenu/releases/download/2.1/Wienerle_Launcher_v2.1_Installer.7z) und den [Java-Installer](https://mega.nz/file/2B03iZ7I#a-OBlVohvI2pEM7ZpqcYm_Rwdab57Z7Hk3esSC9CCo0)
 
-2. Starte und installier Java
+2. Installier Java
 
-3. Starte den Launcher (Es sollte sich eine Konsole öffnen)
+3. Starte den Launcher (Es sollte sich eine Versionsauswahl öffnen)
+
+Versionen:
+  Stable: Enthält meist getestete Features.
+  Beta: Enthält teilweise ungetestete Features.
+  Custom: Lässt dich ältere oder noch nicht eingetragene Versionen starten.
 
 
 # Trello und Updates
