@@ -6,11 +6,6 @@
 
 3. Starte den Launcher (Es sollte sich eine Versionsauswahl öffnen)
 
-Versionen:
-  Stable: Enthält meist getestete Features.
-  Beta: Enthält teilweise ungetestete Features.
-  Custom: Lässt dich ältere oder noch nicht eingetragene Versionen starten.
-
 
 # Trello und Updates
 
