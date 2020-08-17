@@ -14,6 +14,11 @@
 
 # Changelog
 
+### \[Beta] Version - 45 | 15.8.2020
+* Fixed Rig Horserace
+* Fixed Player Abilities
+* Updated a few offsets
+
 ### \[Release] Version - 44 | 10.6.2020
 * Added Vehicle Colors
   * Added Primary Color
