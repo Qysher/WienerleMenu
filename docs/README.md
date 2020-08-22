@@ -14,6 +14,10 @@
 
 # Changelog
 
+### \[Beta] Version - 46 | 23.8.2020
+* Fixed Wanted Level / Never Wanted
+* Fixed CPlayerInfo offset
+
 ### \[Beta] Version - 45 | 15.8.2020
 * Fixed Rig Horserace
 * Fixed Player Abilities
