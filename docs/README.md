@@ -14,6 +14,9 @@
 
 # Changelog
 
+### \[Beta] Version - 47 | 24.8.2020
+* Fixed Never Wanted
+
 ### \[Beta] Version - 46 | 23.8.2020
 * Fixed Wanted Level / Never Wanted
 * Fixed CPlayerInfo offset
