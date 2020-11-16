@@ -14,7 +14,7 @@
 
 # Changelog
 
-### \[Beta] Version - 48 | 24.8.2020
+### \[Beta] Version - 48 | 16.11.2020
 * Fixed Vehicle Tuner
 
 ### \[Beta] Version - 47 | 24.8.2020
