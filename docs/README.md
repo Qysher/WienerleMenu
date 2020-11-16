@@ -14,6 +14,9 @@
 
 # Changelog
 
+### \[Beta] Version - 48 | 24.8.2020
+* Fixed Vehicle Tuner
+
 ### \[Beta] Version - 47 | 24.8.2020
 * Fixed Never Wanted
 
